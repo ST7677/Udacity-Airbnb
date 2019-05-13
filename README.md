@@ -25,7 +25,7 @@ I was particular interested in identifying what are main factors influencing acc
 There are 4 files available in the project
 1. Readme.md (this file)
 2. Seattle_airbnb.ipynb (the python Notebook)
-3. Calendar.csv (data file about booking information in Seattle)
+3. Calendar.csv (data file about booking information in Seattle). This is truncated 19MB version of original 35MB file, due to GitHub file upload size limitation.
 4. Listings.csv (data file about Information about the houses in Seattle)
 
 ## Results
