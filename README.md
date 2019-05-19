@@ -30,11 +30,12 @@ There are 4 files available in the project
 
 ## Results
 With my analysis of the shared data I found out that
-1. The peak season is June, July, August. 
+1. The peak season is from June to August and are lowest is from January to March
 2. The rates are higher on weekends
-3. Number of rooms is the most significant factor in determining the price of rooms, followed by the neighborhood.
-4. The highest demand is for 6 to 10 person occupancy houses.
-
+3. Apartments and Houses comprise of about 90% of total listings
+4. Neighborhoods of Southeast Magnolia, Portage Bay and Westlake have highest mean price, while the neighborhoods of Rainier Beach, Olympic Hills and South Delridge have lowest mean prices
+5. Broadway, Belltown and Wallingford have highest listing counts, while neighborhoods of Roxhill, South Park and Pinehurst have lower listing counts
+6. Accommodation size (determined by number of bedrooms, how many people it accommodates, number of bathrooms) is by far the single biggest price influencer.
 
 ## Author
 
