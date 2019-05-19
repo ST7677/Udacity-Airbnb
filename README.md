@@ -27,8 +27,8 @@ The findings of the project are publish in a blog [here](https://medium.com/@sun
 There are 4 files available in the project
 1. Readme.md (this file)
 2. Seattle_airbnb.ipynb (the python Notebook)
-3. Calendar.csv (data file about booking information in Seattle). This is truncated 19MB version of original 35MB file, due to GitHub file upload size limitation.
-4. Listings.csv (data file about Information about the houses in Seattle)
+3. Calendar.csv (data file about booking information in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data
+4. Listings.csv (data file about Information about the houses in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data 
 
 ## Results
 With my analysis of the shared data I found out that
@@ -44,6 +44,7 @@ With my analysis of the shared data I found out that
 Sunil Thakur
 - <https://github.com/ST7677>
 
+Blog at Medium - https://medium.com/@sunilthakur_67045/analysis-of-2016-airbnb-offering-in-seattle-16e524e58c93
 
 ## Thanks
 
