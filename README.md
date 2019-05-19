@@ -20,7 +20,7 @@ The code in the project can be executed using Anaconda distribution of Python ve
 I took up writing this blog as part of second term of the nanodegree [become a data scientist](https://eu.udacity.com/course/data-scientist-nanodegree--nd025) of [Udacity](https://eu.udacity.com/). 
 I was particular interested in identifying what are main factors influencing accomodation prices in Seattle to rent through [Airbnb](https://airbnb.com).  
 
-The findings of the project are publish [here](https://medium.com/@sunilthakur_67045/analysis-of-2016-airbnb-offering-in-seattle-16e524e58c93).
+The findings of the project are publish in a blog [here](https://medium.com/@sunilthakur_67045/analysis-of-2016-airbnb-offering-in-seattle-16e524e58c93).
 
 
 ## File descriptions
